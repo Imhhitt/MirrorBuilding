@@ -92,6 +92,7 @@ public class MainCommand implements CommandExecutor {
 
             plugin.reloadConfig();
             plugin.setMaxSixe(plugin.getConfig().getInt("Mirror-Max-Size"));
+            player.sendMessage(MessageUtils.miniMessageParse(plugin.getConfig().getString("Messages.Config-Reloaded")));
 
         }
 
