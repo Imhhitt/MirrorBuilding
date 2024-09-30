@@ -1,0 +1,18 @@
+#    ,--.   ,--.,--.                                ,--.           ,--.,--.   ,--.,--.
+#    |   `.'   |`--',--.--.,--.--. ,---. ,--.--.    |  |-. ,--.,--.`--'|  | ,-|  |`--',--,--,  ,---.
+#    |  |'.'|  |,--.|  .--'|  .--'| .-. ||  .--'    | .-. '|  ||  |,--.|  |' .-. |,--.|      \| .-. |
+#    |  |   |  ||  ||  |   |  |   ' '-' '|  |       | `-' |'  ''  '|  ||  |\ `-' ||  ||  ||  |' '-' '
+#    `--'   `--'`--'`--'   `--'    `---' `--'        `---'  `----' `--'`--' `---' `--'`--''--'.`-  /
+#                                                                                             `---'
+
+
+Messages:
+  No-Permission: "<red>You don't have permission to perform this command!"
+  Only-Players-Command: "<red>This command only can be performed by players!"
+  Not-A-Valid-Block: "<red>The block that you are looking is not a valid reference!"
+  Mirror-Enabled: "<green>Mirror building enabled! Reference: <gold>[%reference%]"
+  Mirror-Disabled: "<red>Mirror building disabled!"
+
+Mirror-Max-Size: 100
+
+config-version: 1

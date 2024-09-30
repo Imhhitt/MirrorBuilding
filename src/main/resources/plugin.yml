@@ -1,0 +1,13 @@
+name: MirrorBuilding
+version: '1.0-SNAPSHOT'
+main: dev.smartshub.mirrorBuilding.MirrorBuilding
+api-version: '1.20'
+authors: [ hhitt ]
+commands:
+  mirrorbuilding:
+    description: "Main command"
+    permission: "mirrorbuilding.command"
+    aliases:
+      - mb
+      - mirror
+      - mirrorb
